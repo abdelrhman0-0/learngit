@@ -13,3 +13,4 @@ const y = 6;
 
 // change dir => finished => developer2
 // change dir2 => finished => developer3
+// logout => finished
